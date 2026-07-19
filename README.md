@@ -1,5 +1,7 @@
 # PlainPaste
 
+<img src="readme_assets/icon.png" width="128" height="128" alt="PlainPaste app icon">
+
 A tiny, dependency-free macOS menu bar app that strips formatting from your clipboard and pastes plain text — triggered by a fully customizable global keyboard shortcut.
 
 ### [⬇️ Download the latest version](https://github.com/xtrageneric/PlainPaste/releases/latest/download/PlainPaste.dmg)
