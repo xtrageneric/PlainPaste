@@ -8,6 +8,11 @@ A tiny, dependency-free macOS menu bar app that strips formatting from your clip
 
 Open the downloaded `.dmg` and drag PlainPaste into your Applications folder. (See [Building it yourself](#building-it-yourself) below if you'd rather build from source.)
 
+Since this build isn't signed/notarized by Apple, macOS will likely refuse to open it the first time with a *"PlainPaste" Not Opened — Apple could not verify "PlainPaste" is free of malware* warning. Don't click "Move to Trash" — click **Done**, then do one of the following (only needed once):
+
+- Go to **System Settings → Privacy & Security**, scroll down, and click **Open Anyway** next to the PlainPaste message.
+- Or, in Finder, right-click (or Control-click) PlainPaste.app and choose **Open** from the menu — this shows a dialog with an explicit **Open** button.
+
 ## What it does
 
 - Lives quietly in the menu bar with a customizable icon
